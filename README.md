@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,bash,docker,figma,firebase,git,ai,laravel,mysql,nginx,npm,php,pinia,postgres,redis,supabase,tailwind,ts,vite,vue,yarn)](https://skillicons.dev)
 <!--
 **Nicholasbell03/Nicholasbell03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
