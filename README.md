@@ -7,9 +7,13 @@
 
 ### 👋 About Me
 
-I am a Senior Full Stack Software Engineer with a unique background as a Chartered Civil Engineer and Senior Quantity Surveyor. This diverse 12-year experience has equipped me with a robust problem-solving toolkit, allowing me to apply first-principles thinking to deliver innovative and efficient technical solutions. After a career-changing sabbatical travelling Africa, I pivoted into software development, where I thrive in dynamic environments and excel at learning quickly.
+I am a Senior Full Stack Software Engineer with a unique background as a Chartered Civil Engineer (BSc. Engineering) and Senior Quantity Surveyor. This diverse experience has equipped me with a robust problem-solving toolkit, allowing me to apply first-principles thinking to deliver innovative and efficient technical solutions. 
 
-I am passionate about building impactful products and am currently the AI Lead at **Advantage Learn**, where I spearhead AI-focused projects and strategy.
+I pivoted from Civil Engineering to Software Engineering because I felt civil engineering was too stale with innovation and freedom to solve problems creatively. Software is more scalable, there are a wider array of possibilities and it is less regulated in terms of having to apply a specific recipe solution to them. 
+
+**I'm very passionate about being at the forefront of AI utilisation as part of the development process, figuring out ways to maximise productivity, improve quality, and automate processes. I believe that the current LLM boom should be embraced responsibly, rather than dismissed due to any shortcomings with it's current limitations.  **
+
+I am passionate about building impactful products and am currently a Snr Full-Stack Engineer and the AI Lead at **Advantage Learn**. We build and maintain a number of complex multitenancy products. 
 
 ---
 
@@ -31,11 +35,19 @@ As a **Senior Full Stack Engineer**, I've had the opportunity to make a signific
 * **AI Leadership & Integration:**
     * As **AI Team & Organisation Lead**, successfully delivered a project that produced over **8,000** AI-enhanced lessons and translated subtitles for **4,000** videos.
     * Led the integration of AI into our core LMS, automating content creation and improving operational efficiency.
+    * Currently underway with the design of a chatbot system implementing RAG, tool calling and vector search. 
 
 * **Engineering & Project Delivery:**
     * Serve as the Lead Engineer for a client's Laravel application, managing the full lifecycle including releases, CI/CD, and infrastructure.
     * Designed and implemented key features, including a complex user enrolment system that queries an external on-premise database and a comprehensive User Progress Reporting system.
-    * Championed code sustainability by implementing 8 different solutions, including AI-driven code reviews and automated error reporting to Slack.
+
+* **Sustainability Solutions:**
+    * AI PR Reviews
+    * AWS Chatbot integration with Slack
+    * Daily log error summaries to slack
+    * Native architecture diagrams in Vitepress docs using Mermaid diagrams for improved documentation
+    * Cursor rules setup for repos for aligned AI use within the team
+    * Various improvements around infrastructure observability and alerts 
 
 ---
 
