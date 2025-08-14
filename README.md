@@ -19,7 +19,10 @@ I am currently a Snr Full-Stack Engineer and the AI Lead at **Advantage Learn**.
 [![My Skills](https://skillicons.dev/icons?i=laravel,php,js,ts,vue,mysql,postgres,pinia,redis,vite,html,tailwind,aws,docker,figma,firebase,supabase,yarn)](https://skillicons.dev)
 
 ---
+### My Work
 
+Unfortunately I haven't had a lot of time to work on personal side projects, but I am in the infancy of one or two. 
+Essentially 100% of my work is in private repos, but I have created a repo called `Indicators-demo` which showcases some of the recent code I have written. It's important to note that it's a non-functional repo, as there will be some missing classes, but I think it still showcases the code I write in fairly reflective manner. 
 
 <!--
 **Nicholasbell03/Nicholasbell03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
